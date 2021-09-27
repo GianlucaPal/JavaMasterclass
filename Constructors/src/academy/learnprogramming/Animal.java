@@ -1,7 +1,7 @@
 package academy.learnprogramming;
 
 /**
- * Created by dev on 8/3/15.
+ * Created by dev on 6/07/15.
  */
 public class Animal {
 
@@ -21,9 +21,11 @@ public class Animal {
 
     public void eat() {
         System.out.println("Animal.eat() called");
+
     }
 
-    public void move() {
+    public void move(int speed) {
+        System.out.println("Animal.move() called.  Animal is moving at " +speed);
 
     }
 
