@@ -13,7 +13,7 @@ public class Fish extends Animal {
 
         super(name, 1, 1, size, weight);
         this.gills = gills;
-        this.eyes = eyes;s
+        this.eyes = eyes;
         this.fins = fins;
     }
 
