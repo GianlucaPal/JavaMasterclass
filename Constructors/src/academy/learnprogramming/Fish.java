@@ -18,7 +18,7 @@ public class Fish extends Animal {
     }
 
     private void rest() {
-
+//s
     }
 
     private void moveMuscles() {
