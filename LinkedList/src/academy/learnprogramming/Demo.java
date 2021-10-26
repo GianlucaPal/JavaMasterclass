@@ -93,6 +93,7 @@ public class Demo {
                     }
                     break;
 
+
                 case 2:
                     if(goingForward) {
                         if(listIterator.hasPrevious()) {
